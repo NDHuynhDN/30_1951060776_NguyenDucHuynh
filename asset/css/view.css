@@ -1,0 +1,16 @@
+.header__navbar{
+    padding: 0;
+}
+.bi-person-circle{
+    font-style: 24px;
+}
+.main__view{
+    margin-top: 90px;
+    padding: 0;
+}
+/*Responsive for mobile*/
+@media only screen and (max-width: 767px) {
+    .footer{
+        text-align: center;
+    }
+}

@@ -1,0 +1,16 @@
+.header{
+    margin: 0;
+    padding: 0;
+}
+.main__post{
+    margin-top: 90px;
+}
+.main__lable{
+    margin-bottom: 15px;
+}
+/*Responsive for mobile*/
+@media only screen and (max-width: 767px) {
+    .footer{
+        text-align: center;
+    }
+}
